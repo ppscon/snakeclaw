@@ -1,4 +1,4 @@
-# project snakeclaw
+# Project snakeclaw
 This a version of Richards 'fleetman' for testing the install of the istio service mesh with a distributed microservices cluster.  The demo includes the following steps:
 
 1. Instalation of Istio from Scratch
