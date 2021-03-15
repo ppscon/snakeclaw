@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Project snakeclaw V1.03
+Project snakeclaw - Istio
 =======
 Project snakeclaw
 >>>>>>> b3437d2fd491024d4a131fc19baa33f8e58025ab
