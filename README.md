@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Project snakeclaw V1.03
+=======
+Project snakeclaw
+>>>>>>> b3437d2fd491024d4a131fc19baa33f8e58025ab
 This is a modified version of Richards 'fleetman' for testing the install of the istio service mesh with a distributed microservices cluster, on AZURE and AWS  
 
 The demo includes the following steps:
