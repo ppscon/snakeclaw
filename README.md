@@ -1,7 +1,7 @@
 
 This is a modified version of Richards 'fleetman' for testing the install of the istio service mesh with a distributed microservices cluster, on AZURE and AWS  
 
-The demo includes the following steps:
+## The demo includes the following steps:
 
 1. Installation of Istio from Scratch.  Azure AKS and AWS using KOP
 2. Installation of a microservices architecture
